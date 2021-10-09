@@ -1,2 +1,2 @@
 # testPortfolio-sass
-A portfolio website using sass
+A template design for portfolio website using sass
